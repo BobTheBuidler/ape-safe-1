@@ -126,3 +126,4 @@ dmypy.json
 
 # setuptools-scm
 version.py
+.worktrees
